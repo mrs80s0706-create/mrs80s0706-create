@@ -26,7 +26,5 @@ Pythonを用いた高度なスクレイピング技術や、AIを活用した業
 
 ## 📬 Contact / お問い合わせ
 
-For project inquiries or business consultations, please contact me through Crowley or via direct message.
-お仕事のご依頼やご相談は、以下のリンクよりお気軽にご連絡ください。
-
-* **CrowdWorks:** [My Profile / クラウドワークス プロフィール](あなたのクラウドワークスURLをここに貼り付け)
+For project inquiries, business consultations, or general messages, please feel free to open a new Issue in this repository.
+お仕事のご依頼やビジネスのご相談、メッセージなどは、当リポジトリの「Issues」タブより新しいスレッド（New Issue）を立ち上げてお気軽にご連絡ください。
