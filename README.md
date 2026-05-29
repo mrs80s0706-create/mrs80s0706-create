@@ -48,7 +48,7 @@ Pythonを用いた高度なスクレイピング技術や、AIを活用した業
 
 ## 📬 Contact / お問い合わせ
 
-[![Email](https://img.shields.io/badge/Email-mr.s80s0706%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mr.s80s0706@gmail.com)
+![Email](https://img.shields.io/badge/Email-mr.s80s0706%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 
 For project inquiries, business consultations, or general messages, please feel free to reach out via email or open a new [Issue](https://github.com/mrs80s0706-create/mrs80s0706-create/issues) in this repository.
 
