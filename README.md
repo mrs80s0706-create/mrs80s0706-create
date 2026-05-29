@@ -12,6 +12,9 @@ I specialize in Python-driven web scraping, task automation, and AI integration.
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-B45309?style=flat&logo=anthropic&logoColor=white)
 
 * **Programming & Automation:** Python, Web Scraping (Selenium), API Integration
 * **Data Management:** Spreadsheets automation, Google Drive synchronization
