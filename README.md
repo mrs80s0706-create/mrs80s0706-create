@@ -5,9 +5,28 @@
 I specialize in Python-driven web scraping, task automation, and AI integration. My focus is on acting as a strategic partner to management, streamlining business operations, and providing data-driven insights.
 
 ## 🚀 Technical Skills & Tools
-* **Programming & Automation:** Python, Web Scraping (Selenium, etc.), API Integration
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+* **Programming & Automation:** Python, Web Scraping (Selenium), API Integration
 * **Data Management:** Spreadsheets automation, Google Drive synchronization
-* **AI & Content Creation:** Generative AI tools (Kaiber, Google AI), AI-OCR, Prompts optimization
+* **AI & Content Creation:** Generative AI tools, AI-OCR, RAG systems (LangChain, ChromaDB, Ollama), Prompt optimization
+
+---
+
+## 🔗 Projects
+
+| Repository | Description | Topics |
+|---|---|---|
+| [Drive-Auto-Upload](https://github.com/mrs80s0706-create/Drive-Auto-Upload) | Google Drive自動アップロードツール | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![OAuth2](https://img.shields.io/badge/-OAuth2-black?style=flat) |
+| [Auto-Pager-Scraper](https://github.com/mrs80s0706-create/Auto-Pager-Scraper) | ページネーション対応の自動スクレイピングツール | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat) |
+| [AI-OCR-Pack](https://github.com/mrs80s0706-create/AI-OCR-Pack) | AI搭載OCRツール \| PDF・画像からテキスト抽出 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![OCR](https://img.shields.io/badge/-OCR-orange?style=flat) |
+| [kamikaze-rag-system](https://github.com/mrs80s0706-create/kamikaze-rag-system) | ローカルRAGチャット分析システム | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) ![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat) |
 
 ---
 
@@ -20,12 +39,14 @@ Pythonを用いた高度なスクレイピング技術や、AIを活用した業
 ## 💡 強み・フォーカス領域
 * **自動化による業務改善:** 手作業のデータ入力や収集をPythonスクリプトで完全自動化。
 * **AIソリューションの導入:** 最新の生成AIやAI-OCRを実務に落とし込み、生産性を劇的に向上。
-* **ビジネス・リサーチ:** eコマース（SSENSE等）のデータ抽出や市場分析ツールなど、実用的なソリューションの開発。
+* **RAGシステム構築:** LangChain・ChromaDB・Ollamaを使ったローカル動作のRAGチャット分析システムの開発。
 
 ---
 
 ## 📬 Contact / お問い合わせ
 
-For project inquiries, business consultations, or general messages, please feel free to open a new [Issue](https://github.com/mrs80s0706-create/mrs80s0706-create/issues) in this repository.
+[![Email](https://img.shields.io/badge/Email-mr.s80s0706%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mr.s80s0706@gmail.com)
 
-お仕事のご依頼やビジネスのご相談、メッセージなどは、こちらの [Issues (ご相談窓口)](https://github.com/mrs80s0706-create/mrs80s0706-create/issues) より新しいスレッドを立ち上げてお気軽にご連絡ください。
+For project inquiries, business consultations, or general messages, please feel free to reach out via email or open a new [Issue](https://github.com/mrs80s0706-create/mrs80s0706-create/issues) in this repository.
+
+お仕事のご依頼やビジネスのご相談は、メールまたはこちらの [Issues (ご相談窓口)](https://github.com/mrs80s0706-create/mrs80s0706-create/issues) よりお気軽にご連絡ください。
