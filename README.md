@@ -30,6 +30,7 @@ I specialize in Python-driven web scraping, task automation, and AI integration.
 | [Auto-Pager-Scraper](https://github.com/mrs80s0706-create/Auto-Pager-Scraper) | ページネーション対応の自動スクレイピングツール | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat) |
 | [AI-OCR-Pack](https://github.com/mrs80s0706-create/AI-OCR-Pack) | AI搭載OCRツール \| PDF・画像からテキスト抽出 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![OCR](https://img.shields.io/badge/-OCR-orange?style=flat) |
 | [kamikaze-rag-system](https://github.com/mrs80s0706-create/kamikaze-rag-system) | ローカルRAGチャット分析システム | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) ![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat) |
+| [line-bot-claude](https://github.com/mrs80s0706-create/line-bot-claude) | LINE×AIチャットボット開発 \| Claude API・Python・Flask | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat) ![LINE](https://img.shields.io/badge/-LINE-00C300?style=flat) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat) |
 
 ---
 
